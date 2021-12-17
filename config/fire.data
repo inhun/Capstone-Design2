@@ -1,0 +1,4 @@
+classes=2
+train=data/small/train.txt
+valid=data/small/valid.txt
+name=data/classes.names
